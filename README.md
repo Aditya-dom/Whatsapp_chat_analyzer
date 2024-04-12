@@ -14,6 +14,6 @@ are just some basic graphs that are plotted in plot\_data.
 
 Requirements:
 ```
-- Python
-- R + Tidyverse
+- **Python**
+- **R** + **Tidyverse**
 ```
