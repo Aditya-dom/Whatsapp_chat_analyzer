@@ -13,7 +13,7 @@ You can do your own custom analysis as well once the data has been loaded. There
 are just some basic graphs that are plotted in plot\_data.
 
 Requirements:
+```
 - Python
 - R + Tidyverse
-
-
+```
